@@ -3,3 +3,125 @@
 [04-May-2024 05:58:52 UTC] PHP Parse error:  syntax error, unexpected variable "$count" in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 4
 [04-May-2024 05:58:53 UTC] PHP Parse error:  syntax error, unexpected variable "$count" in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 4
 [04-May-2024 05:59:32 UTC] PHP Parse error:  syntax error, unexpected variable "$count" in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 4
+[06-May-2024 13:34:23 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "language_attributes" in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php:2
+Stack trace:
+#0 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(810): require_once()
+#1 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(745): load_template('/Users/joshuawa...', true, Array)
+#2 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php(1): get_header()
+#4 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include('/Users/joshuawa...')
+#5 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/joshuawa...')
+#6 /Users/joshuawaheed/Local Sites/fictional-university/app/public/index.php(17): require('/Users/joshuawa...')
+#7 {main}
+  thrown in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php on line 2
+[06-May-2024 13:34:25 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "language_attributes" in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php:2
+Stack trace:
+#0 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(810): require_once()
+#1 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(745): load_template('/Users/joshuawa...', true, Array)
+#2 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php(1): get_header()
+#4 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include('/Users/joshuawa...')
+#5 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/joshuawa...')
+#6 /Users/joshuawaheed/Local Sites/fictional-university/app/public/index.php(17): require('/Users/joshuawa...')
+#7 {main}
+  thrown in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php on line 2
+[06-May-2024 13:34:37 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "language_attributes" in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php:2
+Stack trace:
+#0 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(810): require_once()
+#1 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(745): load_template('/Users/joshuawa...', true, Array)
+#2 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php(1): get_header()
+#4 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include('/Users/joshuawa...')
+#5 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/joshuawa...')
+#6 /Users/joshuawaheed/Local Sites/fictional-university/app/public/index.php(17): require('/Users/joshuawa...')
+#7 {main}
+  thrown in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php on line 2
+[06-May-2024 13:34:38 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "language_attributes" in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php:2
+Stack trace:
+#0 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(810): require_once()
+#1 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(745): load_template('/Users/joshuawa...', true, Array)
+#2 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php(1): get_header()
+#4 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include('/Users/joshuawa...')
+#5 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/joshuawa...')
+#6 /Users/joshuawaheed/Local Sites/fictional-university/app/public/index.php(17): require('/Users/joshuawa...')
+#7 {main}
+  thrown in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php on line 2
+[06-May-2024 13:35:13 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "language_attributes" in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php:2
+Stack trace:
+#0 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(810): require_once()
+#1 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(745): load_template('/Users/joshuawa...', true, Array)
+#2 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php(1): get_header()
+#4 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include('/Users/joshuawa...')
+#5 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/joshuawa...')
+#6 /Users/joshuawaheed/Local Sites/fictional-university/app/public/index.php(17): require('/Users/joshuawa...')
+#7 {main}
+  thrown in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php on line 2
+[06-May-2024 13:35:19 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "language_attributes" in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php:2
+Stack trace:
+#0 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(810): require_once()
+#1 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(745): load_template('/Users/joshuawa...', true, Array)
+#2 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php(1): get_header()
+#4 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include('/Users/joshuawa...')
+#5 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/joshuawa...')
+#6 /Users/joshuawaheed/Local Sites/fictional-university/app/public/index.php(17): require('/Users/joshuawa...')
+#7 {main}
+  thrown in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php on line 2
+[06-May-2024 13:35:19 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "language_attributes" in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php:2
+Stack trace:
+#0 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(810): require_once()
+#1 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(745): load_template('/Users/joshuawa...', true, Array)
+#2 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php(1): get_header()
+#4 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include('/Users/joshuawa...')
+#5 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/joshuawa...')
+#6 /Users/joshuawaheed/Local Sites/fictional-university/app/public/index.php(17): require('/Users/joshuawa...')
+#7 {main}
+  thrown in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php on line 2
+[06-May-2024 13:36:15 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "language_attributes" in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php:2
+Stack trace:
+#0 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(810): require_once()
+#1 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(745): load_template('/Users/joshuawa...', true, Array)
+#2 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php(1): get_header()
+#4 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include('/Users/joshuawa...')
+#5 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/joshuawa...')
+#6 /Users/joshuawaheed/Local Sites/fictional-university/app/public/index.php(17): require('/Users/joshuawa...')
+#7 {main}
+  thrown in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php on line 2
+[06-May-2024 13:36:16 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "language_attributes" in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php:2
+Stack trace:
+#0 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(810): require_once()
+#1 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(745): load_template('/Users/joshuawa...', true, Array)
+#2 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php(1): get_header()
+#4 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include('/Users/joshuawa...')
+#5 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/joshuawa...')
+#6 /Users/joshuawaheed/Local Sites/fictional-university/app/public/index.php(17): require('/Users/joshuawa...')
+#7 {main}
+  thrown in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php on line 2
+[06-May-2024 13:36:16 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "language_attributes" in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php:2
+Stack trace:
+#0 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(810): require_once()
+#1 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(745): load_template('/Users/joshuawa...', true, Array)
+#2 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php(1): get_header()
+#4 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include('/Users/joshuawa...')
+#5 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/joshuawa...')
+#6 /Users/joshuawaheed/Local Sites/fictional-university/app/public/index.php(17): require('/Users/joshuawa...')
+#7 {main}
+  thrown in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php on line 2
+[06-May-2024 13:45:41 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function register_nav_menu(), 1 passed in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 14 and exactly 2 expected in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/nav-menu.php:136
+Stack trace:
+#0 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php(14): register_nav_menu('headerMenuLocat...')
+#1 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(324): university_features('')
+#2 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-settings.php(673): do_action('after_setup_the...')
+#5 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-config.php(103): require_once('/Users/joshuawa...')
+#6 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/joshuawa...')
+#7 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/joshuawa...')
+#8 {main}
+  thrown in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/nav-menu.php on line 136
