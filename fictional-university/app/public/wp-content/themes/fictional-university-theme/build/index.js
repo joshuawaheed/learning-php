@@ -327,6 +327,7 @@ class Search {
     jquery__WEBPACK_IMPORTED_MODULE_0___default()("body").addClass("body-no-scroll");
     this.searchField.val("");
     setTimeout(() => this.searchField.focus(), 301);
+    return false;
   }
   typingLogic() {
     if (this.searchField.val() !== this.previousValue) {

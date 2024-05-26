@@ -138,6 +138,7 @@ class Search {
         $("body").addClass("body-no-scroll");
         this.searchField.val("");
         setTimeout(() => this.searchField.focus(), 301);
+        return false;
     }
 
     typingLogic() {
