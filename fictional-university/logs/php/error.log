@@ -209,3 +209,109 @@ Stack trace:
 #2 /Users/joshuawaheed/Local Sites/fictional-university/app/public/index.php(17): require('/Users/joshuawa...')
 #3 {main}
   thrown in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive.php on line 4
+[01-Jun-2024 08:37:31 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "redirectSubsToFrontend" not found or invalid function name in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-admin/admin-ajax.php(45): do_action('admin_init')
+#3 {main}
+  thrown in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 324
+[01-Jun-2024 08:52:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wo_login_url() in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php:50
+Stack trace:
+#0 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(810): require_once()
+#1 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(745): load_template('/Users/joshuawa...', true, Array)
+#2 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/front-page.php(1): get_header()
+#4 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include('/Users/joshuawa...')
+#5 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/joshuawa...')
+#6 /Users/joshuawaheed/Local Sites/fictional-university/app/public/index.php(17): require('/Users/joshuawa...')
+#7 {main}
+  thrown in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php on line 50
+[01-Jun-2024 08:52:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wo_login_url() in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php:50
+Stack trace:
+#0 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(810): require_once()
+#1 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(745): load_template('/Users/joshuawa...', true, Array)
+#2 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/front-page.php(1): get_header()
+#4 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include('/Users/joshuawa...')
+#5 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/joshuawa...')
+#6 /Users/joshuawaheed/Local Sites/fictional-university/app/public/index.php(17): require('/Users/joshuawa...')
+#7 {main}
+  thrown in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php on line 50
+[01-Jun-2024 08:52:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wo_login_url() in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php:50
+Stack trace:
+#0 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(810): require_once()
+#1 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(745): load_template('/Users/joshuawa...', true, Array)
+#2 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/front-page.php(1): get_header()
+#4 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include('/Users/joshuawa...')
+#5 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/joshuawa...')
+#6 /Users/joshuawaheed/Local Sites/fictional-university/app/public/index.php(17): require('/Users/joshuawa...')
+#7 {main}
+  thrown in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php on line 50
+[01-Jun-2024 08:52:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wo_login_url() in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php:50
+Stack trace:
+#0 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(810): require_once()
+#1 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(745): load_template('/Users/joshuawa...', true, Array)
+#2 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/front-page.php(1): get_header()
+#4 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include('/Users/joshuawa...')
+#5 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/joshuawa...')
+#6 /Users/joshuawaheed/Local Sites/fictional-university/app/public/index.php(17): require('/Users/joshuawa...')
+#7 {main}
+  thrown in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php on line 50
+[01-Jun-2024 08:52:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wo_login_url() in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php:50
+Stack trace:
+#0 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(810): require_once()
+#1 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(745): load_template('/Users/joshuawa...', true, Array)
+#2 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/front-page.php(1): get_header()
+#4 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include('/Users/joshuawa...')
+#5 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/joshuawa...')
+#6 /Users/joshuawaheed/Local Sites/fictional-university/app/public/index.php(17): require('/Users/joshuawa...')
+#7 {main}
+  thrown in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php on line 50
+[01-Jun-2024 08:52:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wo_login_url() in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php:50
+Stack trace:
+#0 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(810): require_once()
+#1 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(745): load_template('/Users/joshuawa...', true, Array)
+#2 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/front-page.php(1): get_header()
+#4 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include('/Users/joshuawa...')
+#5 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/joshuawa...')
+#6 /Users/joshuawaheed/Local Sites/fictional-university/app/public/index.php(17): require('/Users/joshuawa...')
+#7 {main}
+  thrown in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php on line 50
+[01-Jun-2024 08:52:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wo_login_url() in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php:50
+Stack trace:
+#0 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(810): require_once()
+#1 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(745): load_template('/Users/joshuawa...', true, Array)
+#2 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/front-page.php(1): get_header()
+#4 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include('/Users/joshuawa...')
+#5 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/joshuawa...')
+#6 /Users/joshuawaheed/Local Sites/fictional-university/app/public/index.php(17): require('/Users/joshuawa...')
+#7 {main}
+  thrown in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php on line 50
+[01-Jun-2024 08:57:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wo_login_url() in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php:50
+Stack trace:
+#0 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(810): require_once()
+#1 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(745): load_template('/Users/joshuawa...', true, Array)
+#2 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/front-page.php(1): get_header()
+#4 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include('/Users/joshuawa...')
+#5 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/joshuawa...')
+#6 /Users/joshuawaheed/Local Sites/fictional-university/app/public/index.php(17): require('/Users/joshuawa...')
+#7 {main}
+  thrown in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php on line 50
+[01-Jun-2024 08:58:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wo_login_url() in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php:42
+Stack trace:
+#0 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(810): require_once()
+#1 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template.php(745): load_template('/Users/joshuawa...', true, Array)
+#2 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/front-page.php(1): get_header()
+#4 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include('/Users/joshuawa...')
+#5 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/joshuawa...')
+#6 /Users/joshuawaheed/Local Sites/fictional-university/app/public/index.php(17): require('/Users/joshuawa...')
+#7 {main}
+  thrown in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php on line 42
