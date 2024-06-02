@@ -315,3 +315,25 @@ Stack trace:
 #6 /Users/joshuawaheed/Local Sites/fictional-university/app/public/index.php(17): require('/Users/joshuawa...')
 #7 {main}
   thrown in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php on line 42
+[01-Jun-2024 10:09:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function exc_attr() in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page-my-notes.php:23
+Stack trace:
+#0 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/joshuawa...')
+#2 /Users/joshuawaheed/Local Sites/fictional-university/app/public/index.php(17): require('/Users/joshuawa...')
+#3 {main}
+  thrown in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page-my-notes.php on line 23
+[01-Jun-2024 10:09:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_reset_post_data() in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page-my-notes.php:28
+Stack trace:
+#0 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/joshuawa...')
+#2 /Users/joshuawaheed/Local Sites/fictional-university/app/public/index.php(17): require('/Users/joshuawa...')
+#3 {main}
+  thrown in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page-my-notes.php on line 28
+[01-Jun-2024 10:09:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_reset_post_data() in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page-my-notes.php:28
+Stack trace:
+#0 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/joshuawa...')
+#2 /Users/joshuawaheed/Local Sites/fictional-university/app/public/index.php(17): require('/Users/joshuawa...')
+#3 {main}
+  thrown in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page-my-notes.php on line 28
+[02-Jun-2024 07:21:30 UTC] PHP Warning:  Undefined array key "post_text" in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 153
