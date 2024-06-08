@@ -337,3 +337,17 @@ Stack trace:
 #3 {main}
   thrown in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page-my-notes.php on line 28
 [02-Jun-2024 07:21:30 UTC] PHP Warning:  Undefined array key "post_text" in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 153
+[08-Jun-2024 07:22:49 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function add_action(), 1 passed in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/inc/like-route.php on line 3 and at least 2 expected in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/plugin.php:441
+Stack trace:
+#0 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/inc/like-route.php(3): add_action('rest_api_init')
+#1 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php(3): require('/Users/joshuawa...')
+#2 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-settings.php(663): include('/Users/joshuawa...')
+#3 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-config.php(103): require_once('/Users/joshuawa...')
+#4 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/joshuawa...')
+#5 /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/joshuawa...')
+#6 {main}
+  thrown in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/plugin.php on line 441
+[08-Jun-2024 08:26:12 UTC] PHP Parse error:  syntax error, unexpected token ")" in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/inc/like-route.php on line 21
+[08-Jun-2024 08:26:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 367
+[08-Jun-2024 08:26:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 368
+[08-Jun-2024 08:28:13 UTC] PHP Parse error:  syntax error, unexpected token ")" in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/inc/like-route.php on line 33
