@@ -392,3 +392,13 @@ Stack trace:
 #8 {main}
   thrown in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-includes/l10n.php on line 988
 [16-Jun-2024 15:51:03 UTC] PHP Warning:  Undefined array key "ourNonce" in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/plugins/our-word-filter-plugin/index.php on line 57
+[24-Jun-2024 10:48:52 UTC] PHP Warning:  Undefined variable $attirbutes in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/plugins/are-you-paying-attention/index.php on line 34
+[24-Jun-2024 10:48:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/plugins/are-you-paying-attention/index.php on line 34
+[24-Jun-2024 10:49:27 UTC] PHP Warning:  Undefined variable $attirbutes in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/plugins/are-you-paying-attention/index.php on line 34
+[24-Jun-2024 10:49:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/plugins/are-you-paying-attention/index.php on line 34
+[24-Jun-2024 10:49:27 UTC] PHP Warning:  Undefined variable $attirbutes in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/plugins/are-you-paying-attention/index.php on line 34
+[24-Jun-2024 10:49:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/plugins/are-you-paying-attention/index.php on line 34
+[24-Jun-2024 10:49:35 UTC] PHP Warning:  Undefined variable $attirbutes in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/plugins/are-you-paying-attention/index.php on line 34
+[24-Jun-2024 10:49:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/plugins/are-you-paying-attention/index.php on line 34
+[24-Jun-2024 10:49:37 UTC] PHP Warning:  Undefined variable $attirbutes in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/plugins/are-you-paying-attention/index.php on line 34
+[24-Jun-2024 10:49:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/joshuawaheed/Local Sites/fictional-university/app/public/wp-content/plugins/are-you-paying-attention/index.php on line 34
