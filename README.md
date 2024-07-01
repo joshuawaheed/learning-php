@@ -1,3 +1,3 @@
-# Learning WordPress
+# Learning PHP
 
-This repo contains all the WordPress websites that I have learned to build from various courses.
+This repo contains all my PHP projects that I do for learning.
